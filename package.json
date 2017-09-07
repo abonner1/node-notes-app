@@ -1,0 +1,23 @@
+{
+  "name": "notes-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abonner1/node-notes-app.git"
+  },
+  "author": "Andrew Bonner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abonner1/node-notes-app/issues"
+  },
+  "homepage": "https://github.com/abonner1/node-notes-app#readme",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "yargs": "^4.7.1"
+  }
+}
